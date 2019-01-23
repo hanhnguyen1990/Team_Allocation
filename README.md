@@ -4,8 +4,6 @@ Personnel allocation to appropriate projects based on personal performance score
 
 Note: this is a recreation of school project from Excel to Tableau.
 
-![alt text](imgs/Group allocation.png "Description")
-
 Step 1: Problem set up:
 - There are 80 members and 4 projects.
 - For each project, individual member will have their own performance score and satisfaction score. 
@@ -27,3 +25,4 @@ Step 4: Data visualization
 - Use Tableau to visualize the group allocation results at midpoint (minute 5) and end point (minute 10)
 - Conclusion: final allocation result is based on initial assignment. 
 
+<p align="center"><img width="40%" src="imgs/Group_allocation.png"/></p>
