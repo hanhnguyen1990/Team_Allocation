@@ -25,4 +25,4 @@ Step 4: Data visualization
 - Use Tableau to visualize the group allocation results at midpoint (minute 5) and end point (minute 10)
 - Conclusion: final allocation result is based on initial assignment. 
 
-<p align="center"><img width="40%" src="imgs/Group_allocation.png"/></p>
+<p align="center"><img width="100%" src="imgs/Group_allocation.png"/></p>
